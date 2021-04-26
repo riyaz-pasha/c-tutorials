@@ -10,3 +10,14 @@
 
 ### Task 2
 - Teach about data types
+
+#### Useful resourse
+[About bits and Bytes](https://web.stanford.edu/class/cs101/bits-bytes.html)
+
+
+1 Bit = 0 or 1
+1 Byte = 8 bits
+       = 2^8 = 256 combinations
+
+65 = 00100100 = 'A'
+96 = 'a'
