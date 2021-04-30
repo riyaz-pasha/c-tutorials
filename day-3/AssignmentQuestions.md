@@ -62,3 +62,16 @@
 | 40      | 20        | 10      |     10      | 30       | Grade F |
 
 ---
+
+### My Favourite and important one
+
+Write a C program to check whether a given `number` is ___divisible by 2___ or not.
+
+| Input | Output |
+|:-----:| ------:|
+| 2     | Yes    |
+| 3     | No     |
+| 10    | Yes    |
+| 11    | No     |
+
+---
