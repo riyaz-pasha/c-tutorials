@@ -3,29 +3,29 @@
 int main()
 {
     int marks;
-    printf("Enter your marks : "); //1
-    scanf("%d", &marks);           //2 80
+    printf("Enter your marks : ");
+    scanf("%d", &marks);
 
-    if (marks >= 90) // 80 >=90 false
+    if (marks >= 90)
     {
-        printf("Grade A\n"); //
+        printf("Grade A\n");
     }
-    else if (marks >= 80) // 80 >=90 false
+    else if (marks >= 80)
     {
-        printf("Grade B\n"); //
+        printf("Grade B\n");
     }
-    else if (marks >= 70) // 80 >=90 false
+    else if (marks >= 70)
     {
-        printf("Grade C\n"); //
+        printf("Grade C\n");
     }
-    else if (marks >= 35) //80>=35    true
+    else if (marks >= 35)
     {
-        printf("Passed : %d\n", marks); // 3. Passed
+        printf("Passed : %d\n", marks);
     }
     else
     {
         printf("failed : %d\n", marks);
     }
 
-    printf("Marks : %d\n", marks); // always runs
+    printf("Marks : %d\n", marks);
 }
