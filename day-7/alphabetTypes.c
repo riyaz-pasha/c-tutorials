@@ -23,4 +23,22 @@ int main()
         printf("Consonant\n");
         break;
     }
+
+    if (alphabet == 'a' ||
+        alphabet == 'e' ||
+        alphabet == 'i' ||
+        alphabet == 'o' ||
+        alphabet == 'u' ||
+        alphabet == 'A' ||
+        alphabet == 'E' ||
+        alphabet == 'I' ||
+        alphabet == 'O' ||
+        alphabet == 'U')
+    {
+        printf("--Vowel\n");
+    }
+    else
+    {
+        printf("--Consonants\n");
+    }
 }
