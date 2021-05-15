@@ -129,3 +129,6 @@ when `n=5`.
 333
 2222
 11111
+
+* create a folder called assignment02
+* each question filename should be question01.c question02.c
